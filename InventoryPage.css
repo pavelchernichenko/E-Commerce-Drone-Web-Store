@@ -1,0 +1,30 @@
+﻿@import url(https://fonts.googleapis.com/css?family=VT323);
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
+@import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
+
+header {
+    padding-bottom: 25px;
+}
+body{
+    background-color: black;
+}
+.ImageBorder {
+    border-width: 1px;
+    border-color: Black;
+}
+
+.carousel-inner > .carousel-item > img {
+    padding-right: 8.5%;
+    padding-left: 8.5%;
+   
+    height: 550px;
+}
+
+.container > .jumbotron > .browse {
+    font-family: 'Cutive Mono';
+}
+
+.container > .jumbotron > .def {
+    font-family: 'Cutive Mono';
+}
+
